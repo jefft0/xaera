@@ -1,0 +1,3 @@
+[submodule "submodules/xdotool"]
+	path = submodules/xdotool
+	url = https://github.com/jordansissel/xdotool
