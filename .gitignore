@@ -1,0 +1,6 @@
+# Compiled files
+*.o
+xaera
+
+# Emacs temp files
+*~
