@@ -1,21 +1,3 @@
-#define _GNU_SOURCE 1
-#ifndef __USE_BSD
-#define __USE_BSD /* for strdup on linux/glibc */
-#endif /* __USE_BSD */
-
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <unistd.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <getopt.h>
-#include <string.h>
-#include <strings.h>
-#include <errno.h>
-#include <ctype.h>
-#include <stdarg.h>
-
-
 #include <gdk/gdkx.h>
 #include <gdk-pixbuf/gdk-pixbuf.h>
 #include "xdo.h"
