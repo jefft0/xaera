@@ -1,0 +1,3 @@
+[submodule "AERA_Protobuf"]
+	path = AERA_Protobuf
+	url = https://github.com/IIIM-IS/AERA_Protobuf
