@@ -25,7 +25,7 @@ To install xdotool, in a terminal enter:
 To build xaera, in a terminal enter:
 
     cd
-    git clone https://github.com/jefft0/xaera
+    git clone --recursive https://github.com/jefft0/xaera
     cd xaera
     make
 
